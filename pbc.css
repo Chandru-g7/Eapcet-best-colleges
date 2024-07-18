@@ -1,0 +1,63 @@
+#h1{
+    margin-top:100px;
+    text-align:center;
+    color:rgb(109, 57, 2);
+    filter: drop-shadow(0 0 3px whitesmoke);
+}
+.form{
+    padding:50px 20px 50px 20px;
+    margin:50px 500px;
+    border-radius:25px;
+    background-color:transparent;
+    box-shadow:0 0 5px black;
+    color:blanchedalmond;
+    backdrop-filter: blur(50px);
+}
+body{
+    
+    background: linear-gradient(45deg, #a91919, #252576);   
+    min-height: 100vh;
+}
+.bt{
+    border-radius:5px;
+    margin-left:170px;
+}
+.inp1{
+    border-radius:5px;
+    border:0;
+}
+.result{
+    padding:50px 20px 50px 20px;
+    margin:50px 80px;
+    background: linear-gradient(45deg,bisque, #75c9ec,rgb(108, 204, 108),rgb(219, 170, 178));
+    border-radius: 10px;
+    box-shadow: 0 0 10px white;
+}
+table,th,td{
+    border: 1px solid black; /* Sets the border for each cell */
+    padding: 8px; /* Adds some padding for better readability */
+    text-align: left;
+}
+td{
+    font-weight: 600;
+}
+table{
+    margin-left:5px;
+}
+#code{
+   width:110px;
+}
+#branch{
+    width:185px;
+    border-radius: 5px;
+}
+#caste{
+    width:165px;
+    border-radius: 5px;
+}
+.clg{
+    text-decoration: underline;
+    color:rgb(3, 68, 26);
+    filter:drop-shadow(0 0 3px black);
+}
+
